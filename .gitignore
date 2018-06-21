@@ -13,3 +13,6 @@
 _site
 .jekyll-metadata
 .idea
+package-lock.json
+package.json
+.sass-cache
