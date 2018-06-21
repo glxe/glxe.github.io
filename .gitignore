@@ -16,3 +16,4 @@ _site
 package-lock.json
 package.json
 .sass-cache
+type-on-strap.gemspec
