@@ -2,11 +2,7 @@
 
 git status
 
-read -p "whether to continue? Any key to continue, press n key to exit! " go
-
-if [ $go eq "n" ]; then
-exit 1;
-fi
+read -p "press ctrl-c exit. Any key to continue! "
 
 git pull
 git add .
