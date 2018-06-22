@@ -2,7 +2,7 @@
 
 git status
 
-read -p "press ctrl-c exit. Any key to continue! "
+read -p "Press ctrl-c exit. Any key to continue! "
 
 git pull
 git add .
