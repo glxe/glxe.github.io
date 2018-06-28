@@ -1,5 +1,9 @@
 #!/bin/bash
 
+
+#如果是mac
+
+
 git status
 
 read -p "Press ctrl-c exit. Any key to continue! "
@@ -16,3 +20,5 @@ git push
 echo go on ...
 
 fi
+
+#git push -u origin master -f
