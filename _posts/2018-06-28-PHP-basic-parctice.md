@@ -4,7 +4,7 @@ title: PHP 面向对象的实践
 tags: [PHP, 面向编程, Object Oriented]
 excerpt_separator: <!--more-->
 ---
-## 面向对象基本实践  
+#### 1 面向对象基本实践  
 <a href="#class">1. 类的概念</a>  
 <a href="#instantiation">2. 实例化的概念</a>  
 <a href="#structure">3. 构造函数</a>  
